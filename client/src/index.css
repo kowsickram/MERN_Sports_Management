@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body{
+    background-color: rgb(255, 255, 255);
+    /* background-image: url("../public/images/Back.svg");
+    background-position:  center;  */
+}
